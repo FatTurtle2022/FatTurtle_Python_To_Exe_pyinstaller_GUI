@@ -284,7 +284,7 @@ def about():
     juanxian_Button.place(x=55, y=380)
 
     def kaiyuan():
-        os.system('start https://github.com/FatTurtle2022/FatTurtle_Cut_End/releases')
+        os.system('start https://github.com/FatTurtle2022/FatTurtle_Python_To_Exe_pyinstaller_GUI/releases')
 
     kaiyuan_Button = tk.Button(about_window,text='开源', width=27, height=1, command=kaiyuan)
     kaiyuan_Button.place(x=260, y=380)
