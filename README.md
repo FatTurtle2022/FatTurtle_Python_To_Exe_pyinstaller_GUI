@@ -1,0 +1,2 @@
+# FatTurtle_Python_To_Exe_pyinstaller_GUI
+肥胖龟Python打包器（pyinstaller的第三方GUI界面）是一款由肥胖龟基于pyinstaller开发的Python打包器，可以将Python文件打包成.exe文件。
